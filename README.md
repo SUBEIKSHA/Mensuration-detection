@@ -1,4 +1,4 @@
-# MenstruatioNN
+# Menstruation
 
 A simple LSTM model, to predict menstrual cycles and length of menstruation. Powered by Keras.
 
